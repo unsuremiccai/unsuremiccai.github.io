@@ -1,6 +1,6 @@
-# SWITCH Website
+# UNSURE Website
 
-Website of first edition of the [SWITCH: Stroke Workshop on Imaging and Treatment CHallenges](http://switchmiccai.mit.edu). 
+Website based on first edition of the [SWITCH: Stroke Workshop on Imaging and Treatment CHallenges](http://switchmiccai.mit.edu). 
 
 
 ## Credits 
